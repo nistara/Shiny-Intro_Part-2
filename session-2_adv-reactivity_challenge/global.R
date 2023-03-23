@@ -1,8 +1,9 @@
-
+library(shiny)
 library(dplyr)
 library(stringr)
 
 # Data frame for working with vote counts
+# ==============================================================================
 animals = data.frame(
   img_src = c(
     "sea_lion.jpg",
