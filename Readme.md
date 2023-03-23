@@ -4,6 +4,6 @@ Exercises during the Introductory R Shiny Masterclass by [Epi-interactive](https
 
 ## Session 2: Reactivity
 
-![](screenshots/2_reactivity.png)
+![](screenshots/2_reactivity.jpeg)
 
 
