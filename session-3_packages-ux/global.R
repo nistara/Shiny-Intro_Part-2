@@ -19,3 +19,8 @@ routes <- router_ui(
 
 # router <- make_router(routes)
 
+# References
+# ------------------------------------------------------------------------------
+# https://appsilon.github.io/shiny.router/index.html
+# https://stackoverflow.com/a/48891070/5443003
+# https://stackoverflow.com/a/41746169/5443003
