@@ -24,3 +24,4 @@ routes <- router_ui(
 # https://appsilon.github.io/shiny.router/index.html
 # https://stackoverflow.com/a/48891070/5443003
 # https://stackoverflow.com/a/41746169/5443003
+# https://stackoverflow.com/a/37197458/5443003
